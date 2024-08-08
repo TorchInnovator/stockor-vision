@@ -1,0 +1,11 @@
+Title,Work Item Type,Iteration Path,Assigned To,State,Description
+界面設計, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\即時股市走勢圖, Jay, To Do, 設計股市走勢圖的用戶界面
+數據接入, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\即時股市走勢圖, Jay, To Do, 數據接入
+圖表生成, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\即時股市走勢圖, Jay, To Do, 圖表生成
+即時更新, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\即時股市走勢圖, Jay, To Do, 即時更新
+數據庫設計, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\歷史數據分析, Jay, To Do, 設計數據庫
+數據查詢功能, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\歷史數據分析, Jay, To Do, 數據查詢功能
+圖表生成, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\歷史數據分析, Jay, To Do, 圖表生成
+界面設計, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\各大指數、個股、行業板塊的趨勢圖, Jay, To Do, 界面設計
+數據接入, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\各大指數、個股、行業板塊的趨勢圖, Jay, To Do, 數據接入
+圖表生成, Product Backlog Item, 股市分析網\查看股市走勢圖及相關資訊\各大指數、個股、行業板塊的趨勢圖, Jay, To Do, 圖表生成
